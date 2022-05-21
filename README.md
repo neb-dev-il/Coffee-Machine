@@ -1,4 +1,4 @@
-# Coffee-Machine
+# Coffee Machine
 
 This project is a coffee machine simulator. The machine works with typical products: coffee, milk, sugar, and plastic cups; if it runs out of something, it shows a notification. You can get three types of coffee: espresso, cappuccino and latte. Since nothing’s for free, it also collects the money. The same initial resources are 400 ml of water, 540 ml of milk, 120 g of coffee beans, 9 disposable cups, $550 in cash.
 
